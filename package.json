@@ -1,0 +1,23 @@
+{
+  "name": "htmltocaches3",
+  "version": "1.0.0",
+  "description": "htmltocaches3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hwansday"
+  },
+  "keywords": [
+    "s3"
+  ],
+  "author": "hwansday",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1007.0",
+    "iconv-lite": "^0.6.3",
+    "request": "^2.88.2"
+  }
+}
